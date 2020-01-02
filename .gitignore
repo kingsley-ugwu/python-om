@@ -1,5 +1,8 @@
-#vscode
+# vscode
 .vscode/
+
+# project specific
+db/pythonsqlite.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
